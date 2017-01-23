@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">coloris puzzle</string>
+    <string name="hello_world">dyhia bonnjour !</string>
+    <string name="action_settings">Settings</string>
+     <string name="title">coloris puzzle</string>
+     <string name="btn_jouer">JOUER</string>
+    <string name="btn_highscores">HIGHSCORES</string>
+    <string name="btn_quitter">QUITTER</string>
+    <string name="btn_sonoui">SON: OUI</string>
+    <string name="btn_sonnon">SON: NON</string>
+    <string name="help">AIDE</string>
+    <string name="about">A PROPOSE</string>    
+
+</resources>
